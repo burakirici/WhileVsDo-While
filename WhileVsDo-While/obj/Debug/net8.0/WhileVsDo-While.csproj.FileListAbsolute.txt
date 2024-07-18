@@ -1,0 +1,10 @@
+/Users/burakkirici/Desktop/Çalışamalar/WhileVsDo-While/WhileVsDo-While/obj/Debug/net8.0/WhileVsDo-While.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakkirici/Desktop/Çalışamalar/WhileVsDo-While/WhileVsDo-While/obj/Debug/net8.0/WhileVsDo-While.AssemblyInfoInputs.cache
+/Users/burakkirici/Desktop/Çalışamalar/WhileVsDo-While/WhileVsDo-While/obj/Debug/net8.0/WhileVsDo-While.AssemblyInfo.cs
+/Users/burakkirici/Desktop/Çalışamalar/WhileVsDo-While/WhileVsDo-While/obj/Debug/net8.0/WhileVsDo-While.csproj.CoreCompileInputs.cache
+/Users/burakkirici/Desktop/Çalışamalar/WhileVsDo-While/WhileVsDo-While/bin/Debug/net8.0/WhileVsDo-While
+/Users/burakkirici/Desktop/Çalışamalar/WhileVsDo-While/WhileVsDo-While/bin/Debug/net8.0/WhileVsDo-While.dll
+/Users/burakkirici/Desktop/Çalışamalar/WhileVsDo-While/WhileVsDo-While/bin/Debug/net8.0/WhileVsDo-While.pdb
+/Users/burakkirici/Desktop/Çalışamalar/WhileVsDo-While/WhileVsDo-While/obj/Debug/net8.0/WhileVsDo-While.dll
+/Users/burakkirici/Desktop/Çalışamalar/WhileVsDo-While/WhileVsDo-While/obj/Debug/net8.0/refint/WhileVsDo-While.dll
+/Users/burakkirici/Desktop/Çalışamalar/WhileVsDo-While/WhileVsDo-While/obj/Debug/net8.0/WhileVsDo-While.pdb
